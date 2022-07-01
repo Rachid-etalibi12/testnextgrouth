@@ -1,0 +1,98 @@
+.table-border{
+
+    border-collapse: unset !important;
+}
+body{
+    margin-top: 80px;
+}
+.center-th{
+    text-align: center;
+}
+.border-tr td {
+    border-bottom: 0 !important;
+}
+.matricule{
+    width: 200px;
+}
+.text-right{
+    text-align: right;
+}
+.marg-3{
+    margin-top: -70px !important;
+}
+.pad-input {
+   
+        padding: 3px;
+    
+}
+
+
+label{
+    font-size: 15px;
+    color: #a0a0a0;
+    margin-bottom: 5px;
+}
+.header-border{
+     border-bottom: 0 !important;
+     margin-left: 30px;
+}
+.footer-border{
+    border-top: 0 !important;
+    margin-left: 30px;
+}
+.sm-4{
+    clear: both;
+}
+.sm-3{
+    float: left;
+    width: 33.33%;
+    margin-bottom: 80px;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+.card-div{
+    position:relative;
+    display:flex;
+    flex-direction:column;
+    min-width:0;
+    word-wrap:break-word;
+    background-color:#fff;
+    background-clip:border-box;
+    border:1px solid rgba(0,0,0,.125);
+    border-radius:.25rem}
+.btn-style{
+    background: #fdb64d;
+    padding: 10px 53px;
+    border-radius: 8px;
+    color: #585252;
+    font-size: 17px;
+}
+.btn-save-style{
+    background: #fdb64d;
+    padding: 8px 47px;
+    border-radius: 8px;
+    color: #585252;
+    font-size: 17px;
+}
+
+.chip {
+   
+    height: 25px;
+    font-size: 13px;
+    border-radius: 6px;
+    color: white;
+    display: block;
+    width: 89px;
+    padding-top: 2px;
+    text-align:center !important
+  
+ }
+ .on-validation {
+    background-color: #FDB64D;
+ }
+ .valide {
+    background-color: #5BE881;
+ }
+ .rejected {
+    background-color: #FF0000;
+ }
